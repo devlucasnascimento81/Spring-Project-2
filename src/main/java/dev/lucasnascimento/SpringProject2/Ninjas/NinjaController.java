@@ -1,4 +1,4 @@
-package dev.lucasnascimento.SpringProject2;
+package dev.lucasnascimento.SpringProject2.Ninjas;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
